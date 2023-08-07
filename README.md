@@ -14,6 +14,7 @@ Não confio em muitas extensões que podem ler/gravar dados confidenciais do nav
 
 ## Obtenha-o na loja de extensões (ou apenas instale você mesmo)
 Se você é extremamente paranóico com ataques à cadeia de suprimentos, revise o código aqui, clone e instale como uma extensão descompactada localmente
+
 ![](enable-developer-mode2.png)
 
 
