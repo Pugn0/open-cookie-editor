@@ -1,19 +1,19 @@
-# Open Cookie Editor
+# Abra o Editor de Cookies
 ![](images/open-cookie-editor-128.png)
 
-## A chromium cookie editor you can trust
-I don't trust many extensions which can read/write sensitive data from the browser, so I decided to write my own and opensource the code. The codebase is intentionally small, offering a minimalist cookie editor which can be source-code reviewed in a few minutes.
+## Um editor de cookies chromium em que você pode confiar
+Não confio em muitas extensões que podem ler/gravar dados confidenciais do navegador, então decidi escrever o meu próprio e abrir o código. A base de código é intencionalmente pequena, oferecendo um editor de cookies minimalista que pode ter o código-fonte revisado em alguns minutos.
 
-## Some (hopefully) useful features
-- edit/delete all aspects of existing cookies
-- create new cookies
-- base64 & url encode/decode helpers
-- smart search+filter within domain scope
+## Alguns (espero) recursos úteis
+- editar/excluir todos os aspectos dos cookies existentes
+- criar novos cookies
+- ajudantes de codificação/decodificação de base64 e url
+- pesquisa+filtro inteligente dentro do escopo do domínio
 
 ![](screeny2.png)
 
-## Get it from the extensions store (or just install yourself)
-If you're extra paranoid about supply-chain attacks, review the code here, clone, and install as an unpacked extension locally
+## Obtenha-o na loja de extensões (ou apenas instale você mesmo)
+Se você é extremamente paranóico com ataques à cadeia de suprimentos, revise o código aqui, clone e instale como uma extensão descompactada localmente
 ![](enable-developer-mode2.png)
 
 
